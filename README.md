@@ -7,11 +7,10 @@
 ## 📽️ Before vs After
 
 ### Raw Input
-(https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/input.gif)
+![Raw Input](input_videos/input.gif)
 
 ### Analysis Output
-(https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/output_videos/output.gif)
-
+![Analysis Output](output_videos/output.gif)
 ---
 
 ## 🧠 What It Does
