@@ -6,10 +6,11 @@
 
 ## 📽️ Before vs After
 
-| Raw Input | Analysis Output |
-|-----------|----------------|
-| ![Raw Footage](input.gif) | ![Analyzed Output](output.gif) |
-| Plain broadcast footage | Players tracked, teams colored, speed overlaid |
+### Raw Input
+https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/08fd33_4.mp4
+
+### Analysis Output
+![Analyzed Output](output.gif)
 
 ---
 
