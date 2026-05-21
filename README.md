@@ -165,4 +165,3 @@ Football-Analysis-using-YOLO/
 ## 🙏 Credits
 
 Base project inspired by [Abdullah Tarek's football analysis tutorial](https://github.com/abdullahtarek/football_analysis).  
-Extended with modernized annotations, GPU training pipeline, and dedicated ball detection model.
