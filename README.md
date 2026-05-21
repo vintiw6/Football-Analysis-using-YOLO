@@ -7,10 +7,10 @@
 ## 📽️ Before vs After
 
 ### Raw Input
-[https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/08fd33_4.mp4](https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/input.gif)
+(https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/input.gif)
 
 ### Analysis Output
-![Analyzed Output](output.gif)
+(https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/output_videos/output.gif)
 
 ---
 
