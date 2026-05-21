@@ -7,7 +7,7 @@
 ## 📽️ Before vs After
 
 ### Raw Input
-https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/08fd33_4.mp4
+[https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/08fd33_4.mp4](https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/input.gif)
 
 ### Analysis Output
 ![Analyzed Output](output.gif)
@@ -25,11 +25,6 @@ https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/0
 | 🗺️ **Perspective Transformation** | Warps the pitch view so distances are measured in real-world meters, not pixels |
 | 💨 **Speed & Distance** | Per-player speed (km/h) and total distance covered, updated every 5 frames |
 
----
-
-## 🖼️ Output Preview
-
-![Analysis Screenshot](output_videos/screenshot.png)
 
 ---
 
