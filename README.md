@@ -8,7 +8,7 @@
 
 | Raw Input | Analysis Output |
 |-----------|----------------|
-| [![Raw Video](https://img.shields.io/badge/▶_Watch-Raw_Footage-gray?style=for-the-badge)](https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/input_videos/08fd33_4.mp4) | [![Output Video](https://img.shields.io/badge/▶_Watch-Analyzed_Output-green?style=for-the-badge)](https://github.com/vintiw6/Football-Analysis-using-YOLO/blob/main/output_videos/output_video.avi) |
+| ![Raw Footage](input.gif) | ![Analyzed Output](output.gif) |
 | Plain broadcast footage | Players tracked, teams colored, speed overlaid |
 
 ---
@@ -170,3 +170,4 @@ Football-Analysis-using-YOLO/
 ## 🙏 Credits
 
 Base project inspired by [Abdullah Tarek's football analysis tutorial](https://github.com/abdullahtarek/football_analysis).  
+Extended with modernized annotations, GPU training pipeline, and dedicated ball detection model.
